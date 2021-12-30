@@ -13,8 +13,8 @@
   "devDependencies": {},
   "dependencies": {
     "strapi": "https://github.com/strapi-lite/strapi.git#v0.0.2",
-    "strapi-connector-mongoose": "https://github.com/strapi-lite/strapi-connector-mongoose.git#v0.0.1",
-    "strapi-database": "https://github.com/strapi-lite/strapi-database.git#v0.0.1",
+    "strapi-connector-mongoose": "https://github.com/strapi-lite/strapi-connector-mongoose.git#v0.0.2",
+    "strapi-database": "https://github.com/strapi-lite/strapi-database.git#v0.0.2",
     "strapi-utils": "https://github.com/strapi-lite/strapi-utils.git#v0.0.1"
   },
   "author": {
